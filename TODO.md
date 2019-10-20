@@ -3,6 +3,7 @@
 - URLを含むpatternの書き方
 - Interceptorの実装
 - まずそもそもInterceptorであってるんかこれは？
+msgで全部ぶち込んでおくとか？  
 
 # 20191015
 ## TODO till 20191018
