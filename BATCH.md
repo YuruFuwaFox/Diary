@@ -13,6 +13,14 @@
 非常に重要  
 主に必要な事柄や、それからファイル出力についてなど  
 リファレンスもまとまっている  
+[第4章 アペンダー](http://logback.qos.ch/manual/appenders_ja.html)  
+アペンダーなどについて  
+[Logbackでファイルにログを吐く時の基本設定](https://qiita.com/joe_hrmn/items/356f1e2b05cb90241414)  
+割と参考になるかも  
+[Logback 使い方メモ](https://qiita.com/opengl-8080/items/49719f2d35171f017aa9)  
+logbackについての大きなまとめみたいな  
+[Spring Bootでlogback-spring.xmlを使ったロガーの設定](https://tomokazu-kozuma.com/setting-loggers-using-logback-spring-xml-in-spring-boot/)
+[]()
 []()
 []()
 []()
