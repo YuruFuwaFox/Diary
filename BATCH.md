@@ -5,6 +5,11 @@
 流れ的にはDB（ログ保存）→スケジュールで起動→回収というシンプルなわけだが何もわからないの草  
 まずはそもそもAPIのログ出力を考えるべ  
 何がわからんかまず考えた方がいい気がするべし  
+  
+  
+だいたいの流れはlogbackで出力設定（TSV?）→Interceptorでlogを出すようにする（ログを出すとlogbackの設定でファイルに保存）→Batchでファイルからデータ作成、DBに保存みたいな感じ
+  
+  
 [logback.xmlを設定する](https://javazuki.com/articles/slf4j-logback-usage.html)  
 [ログバックの手引き](https://www.codeflow.site/ja/article/logback)  
 [Logback 使い方メモ](https://qiita.com/opengl-8080/items/49719f2d35171f017aa9)  
