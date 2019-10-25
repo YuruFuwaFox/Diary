@@ -28,5 +28,5 @@ logbackについての大きなまとめみたいな
 [処理時間の計測](https://qiita.com/shyu/items/55a02ee79b31ca5ea97a)
 [リクエストへの属性追加](https://www.javadrive.jp/servlet/dispatch/index3.html)
 [HTTP リクエストとレスポンス](https://www.samuraiz.co.jp/adobeproduct/jrun/docs/jr4/docs/html/Programmers_Guide/techniques_servlet8.html)
-[]()
+[クラス Logger](https://www.intra-mart.jp/apidoc/v70/doclet/im_commons/jp/co/intra_mart/common/platform/log/Logger.html)
 []()
