@@ -25,8 +25,8 @@
 [Logback 使い方メモ](https://qiita.com/opengl-8080/items/49719f2d35171f017aa9)  
 logbackについての大きなまとめみたいな  
 [Spring Bootでlogback-spring.xmlを使ったロガーの設定](https://tomokazu-kozuma.com/setting-loggers-using-logback-spring-xml-in-spring-boot/)
-[]()
-[]()
-[]()
+[処理時間の計測](https://qiita.com/shyu/items/55a02ee79b31ca5ea97a)
+[リクエストへの属性追加](https://www.javadrive.jp/servlet/dispatch/index3.html)
+[HTTP リクエストとレスポンス](https://www.samuraiz.co.jp/adobeproduct/jrun/docs/jr4/docs/html/Programmers_Guide/techniques_servlet8.html)
 []()
 []()
