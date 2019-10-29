@@ -30,3 +30,10 @@ logbackについての大きなまとめみたいな
 [HTTP リクエストとレスポンス](https://www.samuraiz.co.jp/adobeproduct/jrun/docs/jr4/docs/html/Programmers_Guide/techniques_servlet8.html)
 [クラス Logger](https://www.intra-mart.jp/apidoc/v70/doclet/im_commons/jp/co/intra_mart/common/platform/log/Logger.html)
 []()
+
+[Spring Bootでtaskを定期実行する方法](https://qiita.com/rubytomato@github/items/4f0c64eb9a24eaceaa6e)
+[JavaでCSVファイルを読み込む方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/19078)
+[]()
+[]()
+[]()
+[]()
